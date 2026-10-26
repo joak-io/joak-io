@@ -3,7 +3,7 @@
 <table border-collapse=0>
   <tr>
     <td valign="top" width="60%">
-      <img src="https://raw.githubusercontent.com/joacock1976/joacock1976/2b4cd32a7dd63eaa4a3aa23ddc2d56dc08769149/ascii-art.png" alt="ASCII Art" width="100%" />
+      <img src="https://raw.githubusercontent.com/joacock1976/joacock1976/2b4cd32a7dd63eaa4a3aa23ddc2d56dc08769149/ascii-art(1).png" alt="ASCII Art" width="100%" />
        <h2> 📫 Connect with me</h2>
       <a href="https://www.linkedin.com/in/joaquín-sanz" target="_blank">
         <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
