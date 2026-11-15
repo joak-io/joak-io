@@ -34,8 +34,8 @@
 ### 📊 GitHub Stats & Contributions
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joak-io&show_icons=true&theme=transparent&hide_border=true&title_color=A0A2A1&icon_color=A0A2A1&ring_color=A0A2A1&text_color=c9d1d9&rank_icon=github" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joak-io&layout=compact&theme=transparent&hide_border=true&title_color=A0A2A1&icon_color=A0A2A1&ring_color=A0A2A1&text_color=c9d1d9" alt="Top Languages" width="48%" />
+  <img src="https://ghstats.dev/api/card?username=joak-io&theme=midnight_sakura&hide_border=true&size=compact" alt="GitHub Stats Card" />
+  <img src="https://ghstats.dev/api/langs?username=joak-io&theme=midnight_sakura&hide_title=true&max_langs=12&layout=donut" alt="Top Languages" />
 </p>
 
 
