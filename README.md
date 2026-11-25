@@ -34,8 +34,7 @@
 ### 📊 GitHub Stats & Contributions
 
 <p align="center">
-  <img src="https://ghstats.dev/api/card?username=joak-io&theme=midnight_sakura&hide_border=true&size=compact" alt="GitHub Stats Card" />
-  <img src="https://ghstats.dev/api/langs?username=joak-io&theme=midnight_sakura&hide_title=true&max_langs=12&layout=donut" alt="Top Languages" />
+  <img src="https://readme-stats-github.pages.dev/api/top-langs?username=joak-io&theme=dark" alt="GitHub Stats Card" />
 </p>
 
 
